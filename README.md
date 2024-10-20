@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Carolina Machado
-- 👀 I’m interested in Aprender mais sobre programação e desenvolvimento
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on códigos e projetos
-- 📫 How to reach me: carol_muniz321@hotmail.com ou pelo linkedin: carolina-muniz-093922180
+- 👋 Olá, Me chamo Carolina Machado
+- 👀 Estrou interessanda em Aprender mais sobre programação e desenvolvimento
+- 🌱 Atualamente estou aprendendo Javascript
+- 💞️ Estou procurando colaborar em códigos e projetos
+- 📫 Você pode entrar em contato comigo: carol_muniz321@hotmail.com ou pelo linkedin: carolina-muniz-093922180
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+
 
 <!---
 Carolina-Extermina/Carolina-Extermina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
