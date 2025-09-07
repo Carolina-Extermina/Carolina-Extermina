@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo Carolina Machado
 - 👀 Estrou interessanda em Aprender mais sobre programação e desenvolvimento
-- 🌱 Atualamente estou aprendendo Javascript
+- 🌱 Atualamente estou aprendendo Javascript, Java e Python
 - 💞️ Estou procurando colaborar em códigos e projetos
 - 📫 Você pode entrar em contato comigo: carol_muniz321@hotmail.com ou pelo linkedin: carolina-muniz-093922180
 - 😄 Pronouns: ela/dela
